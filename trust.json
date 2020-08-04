@@ -1,7 +1,7 @@
 { "Version": "2012-10-17",
     "Statement":[{
         "Effect": "Allow",
-        "Principal": {"AWS":"arn:aws:iam::724934841511:user/Udacity"},
+        "Principal": {"AWS":"arn:aws:iam::724934841511:root"},
         "Action": "sts:AssumeRole"
     }]
 }
